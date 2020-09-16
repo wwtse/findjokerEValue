@@ -1,3 +1,4 @@
 # findjokerEValue
 calc the expected value of single card number
-test log-1
+git remote repository all set
+
